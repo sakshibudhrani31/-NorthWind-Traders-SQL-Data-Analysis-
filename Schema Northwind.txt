@@ -1,0 +1,3 @@
+Customers ─┬── Orders ─── OrderDetails ─── Products ─── Suppliers
+            └── Employees
+            └── Shippers
